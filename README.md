@@ -124,7 +124,6 @@ IBLF01,123,31,icpnq153,1,Server
 IBLF01,124,31,icpnq155,1,Server
 IBLF01,129,33,Mellanox,1,Server
 ```
-##### Note
 
 #### Step 2: Update Symlink
 The checker script reads full_port_mapping.csv by default. You must create a symbolic link pointing to the newly generated file (or any specific historical file you wish to compare against).
